@@ -31,15 +31,11 @@ If you use the codes in your work, please consider citing:
 
 @article{wang_element-wise_2022,
   author = {Wang, Xinming and Tran, Nguyen-Dung and Zeng, Shuming and Hou, Cong and Chen, Ying and Ni, Jun},
-	title = {Element-wise representations with {ECNet} for material property prediction and applications in high-entropy alloys},
-  journal = {npj Computational Materials},
-	volume = {8},
-	issn = {2057-3960},
-	doi = {10.1038/s41524-022-00945-x},
-	number = {1},
-	month = dec,
-	year = {2022},
-	pages = {253},
+       	title = {Element-wise representations with ECNet for material property prediction and applications in high-entropy alloys},
+	 journal = {npj Computational Materials},
+	 year = {2022},
+	 doi = {10.1038/s41524-022-00945-x},
+
 }
 
 
